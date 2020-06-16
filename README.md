@@ -1,0 +1,1 @@
+file_get_contentsからGuzzleまで、色々な手段でMastodonにアクセスしてみよう。
