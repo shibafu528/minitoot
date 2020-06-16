@@ -1,0 +1,22 @@
+{
+    "name": "shibafu528/minitoot",
+    "type": "project",
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "shibafu",
+            "email": "shibafu528@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Minitoot\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=7.3.0",
+        "ext-curl": "*",
+        "ext-json": "*",
+        "guzzlehttp/guzzle": "^6.5"
+    }
+}
